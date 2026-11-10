@@ -22,7 +22,7 @@
 - **Evidence-graded advice** across health, emergencies, money, law and safety, family and time. Each item is graded A, B or C by strength of evidence and links to its sources.
 - **Practical tools:** life ROI calculator, decision trees for emergencies, medication interaction checker, emergency card generator, lab-test guide and more.
 - **Self-check:** answer a few questions to see what to do first.
-- **[Life Universe](https://notevida.com/en/graph/)** and a **[full site map](https://notevida.com/en/sitemap/)** to explore how topics connect.
+- **[Life Universe & site map](https://notevida.com/en/universe/)** to explore how topics connect.
 
 Evidence strength is not the same as a recommendation: something well proven can still be not worth it for you once costs and risks are counted. NoteVida is general information, not personal medical, legal or financial advice.
 
